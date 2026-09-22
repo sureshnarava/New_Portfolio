@@ -250,7 +250,7 @@ img { display: block; max-width: 100%; }
 @keyframes orbitPulse { 0%,100%{opacity:.5;transform:translate(-50%,-50%) scale(1)} 50%{opacity:.95;transform:translate(-50%,-50%) scale(1.04)} }
 .profile-card {
   position: absolute; z-index: 2; top: 50%; left: 50%;
-  width: 300px; height: 370px; transform: translate(-50%,-50%);
+  width: 320px; height: 390px; transform: translate(-50%,-50%);
   overflow: hidden; border: 1px solid rgba(98,230,255,.26);
   border-radius: 38% 38% 30% 30% / 32% 32% 42% 42%;
   background: linear-gradient(145deg, rgba(98,230,255,.18), rgba(155,124,255,.12));
