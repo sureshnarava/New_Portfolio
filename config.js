@@ -294,7 +294,7 @@ window.PORTFOLIO_DATA = {
   },
 
   social: {
-    linkedin: "www.linkedin.com/in/suresh-narava",
+    linkedin: "https://www.linkedin.com/in/suresh-narava/",
     github: "https://github.com/sureshnarava/"
   },
 
