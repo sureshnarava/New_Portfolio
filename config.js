@@ -32,7 +32,7 @@ window.PORTFOLIO_DATA = {
   ],
 
   metrics: [
-    { value: "2+", label: "Years in technology" },
+    { value: "4+", label: "Years in technology" },
     { value: "5+", label: "Projects & improvements" },
     { value: "99%", label: "Reliability mindset" }
   ],
@@ -119,6 +119,12 @@ window.PORTFOLIO_DATA = {
   ],
 
   skills: [
+    {
+    name: "Python",
+    category: "Programming",
+    level: "Core",
+    description: "Hands-on experience with programming language Python in personal projects."
+    },
     {
     name: "AWS & Cloud Infrastructure",
     category: "Cloud & DevOps",
